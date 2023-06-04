@@ -9,4 +9,4 @@ My name is Boris, nice to meet you! 🙂
 src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" height=50 />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhristov90&bg_color=09131B&text_color=ffffff&layout=compact&hide=Procfile" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-hristov&bg_color=09131B&text_color=ffffff&layout=compact&hide=Procfile" />
